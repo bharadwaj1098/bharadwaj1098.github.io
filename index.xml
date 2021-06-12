@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codex</title>
+    <title>Sai Bharadwaj Reddy</title>
     <link>https://bharadwaj1098.github.io/</link>
-    <description>Recent content on codex</description>
+    <description>Recent content on Sai Bharadwaj Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 11 Jun 2021 13:07:16 -0400</lastBuildDate>
     
 	<atom:link href="https://bharadwaj1098.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Personel Projects</title>
-      <link>https://bharadwaj1098.github.io/projects/projects-post/</link>
-      <pubDate>Fri, 11 Jun 2021 13:07:16 -0400</pubDate>
+      <title>I write (sometimes)</title>
+      <link>https://bharadwaj1098.github.io/blog/blog-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bharadwaj1098.github.io/projects/projects-post/</guid>
+      <guid>https://bharadwaj1098.github.io/blog/blog-post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>I write (sometimes)</title>
-      <link>https://bharadwaj1098.github.io/blog/blog-post/</link>
-      <pubDate>Fri, 11 Jun 2021 12:55:08 -0400</pubDate>
+      <title>My Personel Projects</title>
+      <link>https://bharadwaj1098.github.io/projects/projects-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bharadwaj1098.github.io/blog/blog-post/</guid>
+      <guid>https://bharadwaj1098.github.io/projects/projects-post/</guid>
       <description></description>
     </item>
     

@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on codex</title>
+    <title>Projects on Sai Bharadwaj Reddy</title>
     <link>https://bharadwaj1098.github.io/projects/</link>
-    <description>Recent content in Projects on codex</description>
+    <description>Recent content in Projects on Sai Bharadwaj Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 11 Jun 2021 13:07:16 -0400</lastBuildDate>
     
 	<atom:link href="https://bharadwaj1098.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +14,7 @@
     <item>
       <title>My Personel Projects</title>
       <link>https://bharadwaj1098.github.io/projects/projects-post/</link>
-      <pubDate>Fri, 11 Jun 2021 13:07:16 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://bharadwaj1098.github.io/projects/projects-post/</guid>
       <description></description>
