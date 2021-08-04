@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bharadwaj1098.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cv</title>
+      <link>https://bharadwaj1098.github.io/cv/</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharadwaj1098.github.io/cv/</guid>
+      <description>This is my CV till date&amp;hellip;.
+Sai Bharadwaj Reddy EDUCATION Master of Science , Computer Science Jan 2020 - Dec 2021 University of North Carolina at Charlotte GPA: 4.0
+Bachelor of Technology , Computer Science Jul 2015 - Jul 2019 Karunya Institute of Technology and Sciences GPA: 3.0
+EXPERIENCE Graduate Research Assistant , THinC Lab - University of North Carolina, Charlotte Jun 2021 - Aug 2021
+ Designed and Implemented Control-Simulations of shared Human-AI interaction of the steering wheel in Autonomous vehicles.</description>
+    </item>
     
     <item>
       <title>I write</title>
@@ -19,6 +32,16 @@
       
       <guid>https://bharadwaj1098.github.io/blog/blog-post/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bharadwaj1098.github.io/info/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharadwaj1098.github.io/info/about/</guid>
+      <description>Hello. I&amp;rsquo;m currently pursuing my Master&amp;rsquo;s in computer science, with a concentration In AI and Robotics, from the University of North Carolina at Charlotte. My interest lies in Artificial General Intelligence, Machine Learning, and Data Science, and I have research-based experience in Interactive Deep-Reinforcement Learning, Legged robotics perception and navigation, and Brain-computer interfaces.
+Having worked on academic research projects in Machine Learning, Probabilistic modeling, Natural Language Processing, and Data Analysis for the past 2 years, I understand the challenges and creativity required to implement models.</description>
     </item>
     
   </channel>
