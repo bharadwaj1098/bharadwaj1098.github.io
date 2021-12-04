@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Sai Bharadwaj Reddy</title>
-    <link>https://bharadwaj1098.ai/blog/</link>
+    <link>https://bharadwaj1098.github.io/blog/</link>
     <description>Recent content in Blogs on Sai Bharadwaj Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 22 Oct 2021 16:11:28 -0400</lastBuildDate>
     
-	<atom:link href="https://bharadwaj1098.ai/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bharadwaj1098.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why I Write...?</title>
-      <link>https://bharadwaj1098.ai/blog/blog_post_0/</link>
+      <link>https://bharadwaj1098.github.io/blog/blog_post_0/</link>
       <pubDate>Fri, 22 Oct 2021 16:11:28 -0400</pubDate>
       
-      <guid>https://bharadwaj1098.ai/blog/blog_post_0/</guid>
+      <guid>https://bharadwaj1098.github.io/blog/blog_post_0/</guid>
       <description></description>
     </item>
     

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sai Bharadwaj Reddy</title>
-    <link>https://bharadwaj1098.ai/categories/</link>
+    <link>https://bharadwaj1098.github.io/categories/</link>
     <description>Recent content in Categories on Sai Bharadwaj Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     
-	<atom:link href="https://bharadwaj1098.ai/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bharadwaj1098.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
