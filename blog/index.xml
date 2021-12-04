@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Sai Bharadwaj Reddy</title>
-    <link>https://bharadwaj1098.github.io/blog/</link>
+    <link>https://bharadwaj1098.ai/blog/</link>
     <description>Recent content in Blogs on Sai Bharadwaj Reddy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 16:11:28 -0400</lastBuildDate>
     
-	<atom:link href="https://bharadwaj1098.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bharadwaj1098.ai/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>I write (sometimes)</title>
-      <link>https://bharadwaj1098.github.io/blog/blog-post/</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Why I Write...?</title>
+      <link>https://bharadwaj1098.ai/blog/blog_post_0/</link>
+      <pubDate>Fri, 22 Oct 2021 16:11:28 -0400</pubDate>
       
-      <guid>https://bharadwaj1098.github.io/blog/blog-post/</guid>
-      <description>This post is suppossed to</description>
+      <guid>https://bharadwaj1098.ai/blog/blog_post_0/</guid>
+      <description></description>
     </item>
     
   </channel>
